@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'version' => '0.0.3',
+    'version' => '0.0.4',
     'fallback_version' => '0.0.1',
     'preview_url' => env('DOCS_PREVIEW_URL', 'http://localhost:9000'),
 
